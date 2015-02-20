@@ -1,0 +1,17 @@
+{
+  "name": "less-plugin-no-comment",
+  "version": "0.1.0",
+  "description": "less plugin to remove block comments",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobomi/less-plugin-no-comment"
+  },
+  "keywords": [ "less", "plugin", "block", "comments" ],
+  "author": "Bobby Mihalca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobomi/less-plugin-no-comment/issues"
+  },
+  "homepage": "https://github.com/cobomi/less-plugin-no-comment"
+}
