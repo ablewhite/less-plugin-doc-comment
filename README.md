@@ -7,3 +7,6 @@ It removes `/* this comment */` but keeps `/*! this comment */`
 ```
   lessc --no-comment file.less
 ```
+
+## This version
+Updated to include support for `/***! doc comment ***/`-style comments
