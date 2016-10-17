@@ -1,17 +1,17 @@
 {
-  "name": "less-plugin-no-comment",
+  "name": "less-plugin-doc-comment",
   "version": "0.1.0",
-  "description": "less plugin to remove block comments",
+  "description": "less plugin to remove block comments (leaves doc-style comments)",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cobomi/less-plugin-no-comment"
+    "url": "https://github.com/ablewhite/less-plugin-doc-comment"
   },
   "keywords": [ "less", "plugin", "block", "comments" ],
-  "author": "Bobby Mihalca",
+  "author": "Conan Ablewhite",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cobomi/less-plugin-no-comment/issues"
+    "url": "https://github.com/ablewhite/less-plugin-doc-comment/issues"
   },
-  "homepage": "https://github.com/cobomi/less-plugin-no-comment"
+  "homepage": "https://github.com/ablewhite/less-plugin-doc-comment"
 }
